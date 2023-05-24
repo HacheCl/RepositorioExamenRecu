@@ -37,7 +37,8 @@ public static void main(String[] args) {
 	/**
 	 * @param a se usara para calcular el valor de c
 	 * @param b se usara para calcular el valor de c
-	 * @return si el d modulo i es igual a 0 devuelve false si no devuelve true
+	 * @return si el d modulo i es igual a 0 devuelve false si no devuelve true   
+	 * 
 	 */
 	public boolean refactorizacionD(int a, int b) {
 		// Borrado de variable redundante
